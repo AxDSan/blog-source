@@ -64,12 +64,15 @@ profile_links:
 SEO_title: "AxDSan's Lair"
 # keywords for site (good for SEO)
 SEO_keywords:
-  - reverse-engineering
-  - web-development
+  - ai-engineering
+  - machine-learning
+  - natural-language-processing
+  - memory-systems
+  - real-time-translation
 # main title shown in header image
 main_title: "AxDSan's Lair"
 # subtitle
-subtitle: "A place where I blog about Reverse Engineering, Web Development and More!"
+subtitle: "Building memory, language, and intelligence systems — one project at a time."
 # site haeder image
 site_header_image: https://imgur.com/2Q2FBeN.jpg
 # post haeder image
