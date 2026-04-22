@@ -1,12 +1,13 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnVpeTE5eHZiZmVna3Z6aTR3M3Npc2piaXU3OGgydHJ1cjVsd3loaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZBdAS34sGTxnGwafUe/giphy.gif
 # author name
 author: AxDSan
+# signature
 # signature: witness me
 # SNS (you can custom the order)
 social:
-  github: //github.com/AxDSan
+  github: https://github.com/AxDSan
   # wechat should be a path of qr-code image path
   # wechat: /assets/example_qr.png
   # qq should be a path of qr-code image path
@@ -70,9 +71,9 @@ main_title: "AxDSan's Lair"
 # subtitle
 subtitle: "A place where I blog about Reverse Engineering, Web Development and More!"
 # site haeder image
-site_header_image: /intro/index-bg.jpg
+site_header_image: https://imgur.com/2Q2FBeN.jpg
 # post haeder image
-post_header_image: /intro/post-bg.jpg
+post_header_image: https://imgur.com/t7hl1Fw.jpg
 # 404 image
 _404_image: /intro/404-bg.jpg
 
