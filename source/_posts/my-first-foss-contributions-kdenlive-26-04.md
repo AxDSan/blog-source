@@ -15,7 +15,11 @@ Today is a special day for me. [Kdenlive 26.04.0](https://kdenlive.org/news/rele
 
 **Continuous Panning** - This one lets you hold the middle mouse button and drag to continuously pan the timeline, even when your cursor goes outside the screen edges. If you've ever edited a long project in Kdenlive, you know how annoying it is to stop, scroll, reposition, and repeat. Not anymore. You just drag and the timeline follows you. Simple, natural, exactly what you'd expect.
 
+<video controls width="100%" src="https://kdenlive.org/news/releases/26.04.0/warp-scroll.webm"></video>
+
 **Fixed Playhead** - This adds the option to lock the playhead at the center of the timeline during playback, scrubbing, or seeking. Instead of watching your playhead drift off-screen and losing your visual context, it stays anchored right where you need it. The timeline moves around the playhead, not the other way around.
+
+<video controls width="100%" src="https://kdenlive.org/news/releases/26.04.0/center-playhead.webm"></video>
 
 Both are small quality-of-life improvements, but that's exactly what makes open source contributions so meaningful. You fix the papercuts you've felt yourself, and suddenly thousands of other editors benefit too.
 
